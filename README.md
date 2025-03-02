@@ -1,2 +1,2 @@
 # Raptorbytes-b
-The blog page for Raptorbytes.org
+This is a ***WORK IN PROGRESS*** website. I have yet to push the commit to it.
